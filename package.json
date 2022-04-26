@@ -1,0 +1,22 @@
+{
+  "name": "dashboard-data",
+  "version": "1.0.0",
+  "description": "json data for dashboard",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danhartley/dashboard-data.git"
+  },
+  "author": "Daniel Hartley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danhartley/dashboard-data/issues"
+  },
+  "homepage": "https://github.com/danhartley/dashboard-data#readme",
+  "devDependencies": {
+    "json-server": "^0.17.0"
+  }
+}
